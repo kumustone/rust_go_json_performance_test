@@ -1,4 +1,3 @@
-*.png
 go-bench/http_request_easyjson.go
 go-bench/go.sum
 rust-bench/target/
